@@ -1,3 +1,5 @@
+[![LinkedIn CAJ][linkedin-shield]][linkedin-url]
+
 <h1 align="center">
   <br>
   <a href="https://github.com/camilleAmaury/MasterThesisXcale.git"><img src="/images/imtAtlantique.png" alt="IMT Atlantique"></a>
@@ -29,23 +31,31 @@ Last but not least, we wish to propose accurate intervention based on previous r
 
 ## Architecture
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center">
-	<img src="/images/interactions.png" alt="IMT Atlantique">
-</div>
+A preview of our architecture :
 
+<h5 align="center">
+  <img src="/images/interactions.png" alt="IMT Atlantique">
+</h5>
 
 ## Prompts
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center">
-	<img src="/images/ordinal-nonlikert.PNG" alt="prompt-1">
-	<img src="/images/ordinal-likert.PNG" alt="prompt-2">
+A preview of our prompts :
+
+<h5 align="center">
+	<br>
+  	<img src="/images/ordinal-nonlikert.PNG" alt="prompt-1">
+</h5>
+<h5 align="center">
+	<br>
 	<img src="/images/categorical.PNG" alt="prompt-3">
-</div>
+</h5>
+<h5 align="center">
+	<br>
+	<img src="/images/ordinal-likert.PNG" alt="prompt-2">
+</h5>
 
 
 ## Author
-
-[![LinkedIn CAJ][linkedin-shield]][linkedin-url]
 
 See the LinkedIn Shield.
 
