@@ -29,13 +29,19 @@ Last but not least, we wish to propose accurate intervention based on previous r
 
 ## Architecture
 
-<img src="/images/interactions.png" alt="IMT Atlantique">
+<div style="width: 100%; display: flex; align-items: center; justify-content: center">
+	<img src="/images/interactions.png" alt="IMT Atlantique">
+</div>
+
 
 ## Prompts
 
-<img src="/images/ordinal-nonlikert.png" alt="prompt-1">
-<img src="/images/ordinal-likert.png" alt="prompt-2">
-<img src="/images/categorical.png" alt="prompt-3">
+<div style="width: 100%; display: flex; align-items: center; justify-content: center">
+	<img src="/images/ordinal-nonlikert.PNG" alt="prompt-1">
+	<img src="/images/ordinal-likert.PNG" alt="prompt-2">
+	<img src="/images/categorical.PNG" alt="prompt-3">
+</div>
+
 
 ## Author
 
