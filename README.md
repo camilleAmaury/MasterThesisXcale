@@ -10,11 +10,11 @@
 <span align="center"></span>
       
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#courses">Architecture</a> •
-  <a href="#courses">Prompts</a> •
-  <a href="#courses">Authors</a> •
-  <a href="#courses">License</a> •
+  <a href="#About">About</a> •
+  <a href="#Architecture">Architecture</a> •
+  <a href="#Prompts">Prompts</a> •
+  <a href="#Authors">Authors</a> •
+  <a href="#License">License</a> •
 </p>
 
 ---
